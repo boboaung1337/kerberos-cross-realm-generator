@@ -1,7 +1,7 @@
 # Kerberos Cross-Realm Configuration Generator
 
 ```bash
-python3 krb5-cross-realm-generator.py
+sudo python3 crossrealms.py
 ```
 
 ```bash
