@@ -620,7 +620,7 @@ no-addresses = true"""
     def run(self):
         """Main execution"""
         print("="*60)
-        print("UNIVERSAL CROSS-FOREST KERBEROS GENERATOR")
+        print("Mcb0b0 UNIVERSAL CROSS-FOREST KERBEROS GENERATOR")
         print("="*60)
         print(f"[*] Network: {self.network}")
         print("[*] Starting discovery...\n")
