@@ -1,5 +1,8 @@
 # Kerberos Cross-Realm Configuration Generator
 
+```bash
+wget https://github.com/boboaung1337/kerberos-cross-realm-generator/raw/refs/heads/main/crossrealms.py
+```
 
 #### Auto-detect network
 ```bash
